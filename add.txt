@@ -1,6 +1,4 @@
 hello nttt
 a+b
 
-add
-add
-add
+

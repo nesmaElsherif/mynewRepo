@@ -1,6 +1,3 @@
 a*b
 mult
 
-mult
-mult
-mult
